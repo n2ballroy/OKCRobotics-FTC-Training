@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.hardware.DcMotorEx;
 import com.qualcomm.robotcore.hardware.TouchSensor;
 
 
-@TeleOp(name = "Student Training OpMode", group = "Training")
+@TeleOp(name = "Student DCMotor", group = "Training")
 public class DCMotorTutor extends LinearOpMode {
 
     public static final double MOTOR_POWER = 0.1; // Speed from 0.0 to 1.0

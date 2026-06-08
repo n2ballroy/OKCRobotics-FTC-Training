@@ -23,7 +23,7 @@ import com.qualcomm.robotcore.hardware.TouchSensor;
  * 3. local variables
  */
 
-@TeleOp(name = "Student Training OpMode", group = "Training")
+@TeleOp(name = "Student OpMode", group = "Training")
 public class StudentTrainingOpMode extends LinearOpMode {
 
     /* -------------------------------------------------------------------------
